@@ -1,0 +1,1 @@
+Jaktlaget 1.8.0. Stabil vidareutveckling av 1.7.8 med kalender på startsidan, skyttestatistik, tydligare Mer-sida, mål i inställningar, passtilldelning, kontaktadministration, passhistorik, vindvisning och förbättrad gränsredigering.
